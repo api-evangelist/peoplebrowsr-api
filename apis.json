@@ -1,0 +1,68 @@
+{
+    "name": "PeopleBrowsr API",
+    "description": "Discover and activate Profiles, Contacts and Conversations for your community. Developers instantly deploy SocialOS??? BaaS for Parse, Slack and Twitter apps.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/239-peoplebrowsr-api.jpg",
+    "tags": [
+        "have api",
+        "influence",
+        "social",
+        "social analytics",
+        "social influence",
+        "twitter"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/peoplebrowsr-api\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "PeopleBrowsr API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/239-peoplebrowsr-api.jpg",
+            "humanURL": "http:\/\/www.peoplebrowsr.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/peoplebrowsr-api-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.peoplebrowsr.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "feed:\/\/blog.peoplebrowsr.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/peoplebrowsr"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/peoplebrowsr"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/traviswallis"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/PBAPI"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/PeopleBrowsr"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.peoplebrowsr.com\/"
+        }
+    ]
+}
